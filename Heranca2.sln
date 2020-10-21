@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca2", "Heranca2\Heranca2.csproj", "{E59099C7-ECA0-4430-93E9-B35536EA6A08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E59099C7-ECA0-4430-93E9-B35536EA6A08}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E59099C7-ECA0-4430-93E9-B35536EA6A08}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E59099C7-ECA0-4430-93E9-B35536EA6A08}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E59099C7-ECA0-4430-93E9-B35536EA6A08}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
